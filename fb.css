@@ -1,0 +1,137 @@
+.header{
+    background:#3b5998;
+    width:100%;
+    height:85px;
+}
+body{
+    margin:0;
+    font-family: Arial, Helvetica, sans-serif,Helvetica Neue,Arial;
+}
+.logo{
+    width:50%;
+    padding-top: 32px;
+    float: left;
+}
+
+.login{
+    width:50%;
+    float: left;
+    padding-top: 10px;
+}
+
+.login-controls{
+    margin-left: 115px;
+}
+
+.logo-text{
+     font-size: 35px;
+     color: #fff;
+     font-weight: bold;
+    text-decoration: none; 
+    margin-left: 170px;
+    margin-top: 100px;
+    font-family: Arial, Helvetica, sans-serif,Helvetica Neue,Arial;
+}
+
+.login-label{
+    color:#fff;
+    font-size: 11px;
+}
+.forgotten{
+    color:rgb(255, 255, 255);
+    font-size: 11px;
+    text-decoration: none;
+    color:rgb(212, 209, 209)
+}
+
+.submit-button{
+    background: #4267b2;
+    color:#fff;
+    height:20px;
+    border-color: #29487d;
+    cursor: pointer;
+}
+.submit-button:hover{
+    background: rgb(17, 17, 85);
+}
+.left-section{
+    width:50%;
+    float: left;
+    padding-left: 134px;
+    padding-top:52px ;
+    font-weight: bold;
+    font-size: 21px;
+}
+.right-section{
+    width:39%;
+    float: left;
+}
+.main-body{
+    width:100%;
+    height:500px;
+    background: linear-gradient(white,#D3D8E8);
+}
+.image{
+    width:581px;
+}
+h3{
+    margin-top:0;
+    padding-top:0;
+    font-size: 25px;
+}
+
+h1{
+    margin-bottom: 8px;
+    font-size: 40px;
+}
+.paraa{
+    text-decoration: none;
+}
+
+.para2{
+    font-size: 13px;
+}
+
+.signbut{
+    color:#fff;
+    background: rgb(9, 202, 35);
+    height:25px;
+    width:200px;
+    font-size: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 5px;
+    border-bottom-color: rgb(46, 243, 28);
+    border-top-color: rgb(11, 196, 11);
+}
+
+.text2{
+    width:350px;
+}
+.text1{
+    width:168px;
+    border-color:white ;
+    border-bottom-color: white;
+    
+}
+.bdy{
+    font-size: 13px;
+    font-weight:450;
+    border-color: #fff;
+    border-bottom-color: white;
+    border-top-color: white;
+    
+}
+.text1-box{
+    padding-bottom: 20px;
+}
+.textbox2{
+    padding-bottom: 20px;
+}
+.textbox1{
+    padding: 5px;
+}
+.gen{
+    padding-top:20px;
+    font-size: 13px;
+    padding-bottom: 5px;
+}
